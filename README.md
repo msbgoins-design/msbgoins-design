@@ -1,4 +1,4 @@
-![Babs Creations Banner](Babs Creations Banner.png)
+
 ## 👋 Hi, I’m BabsCreations4U
 
 💡 Creative Tech Consultant | Digital Strategist | Emerging App Builder  
