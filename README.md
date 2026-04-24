@@ -1,4 +1,4 @@
-![Babs Creations Banner](ChatGPT Image Apr 24, 2026, 05_17_49 PM)
+![Babs Creations Banner](Babs Creations Banner.png)
 ## 👋 Hi, I’m BabsCreations4U
 
 💡 Creative Tech Consultant | Digital Strategist | Emerging App Builder  
