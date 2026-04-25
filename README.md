@@ -1,4 +1,4 @@
-![Babs Creations Banner](ChatGPTImageApr24,2026,05_XX_XX.png)
+
 ## 👋 Hi, I’m BabsCreations4U
 
 💡 Creative Tech Consultant | Digital Strategist | Emerging App Builder  
