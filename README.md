@@ -1,6 +1,6 @@
 ![Babs Creations Banner](Babs%20Creations%20Banner.png)
 <br><br>
-## 👋 Hi, I’m BabsCreations4U
+<h2 align="center">👋 Hi, I’m BabsCreations4U</h2>
 
 💡 Creative Tech Consultant | Digital Strategist | Emerging App Builder  
 🎯 Focused on community impact, branding, and practical AI-powered solutions  
